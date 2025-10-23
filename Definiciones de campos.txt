@@ -1,0 +1,15 @@
+Dataset limpio tras la validación de las reglas usadas en Talend Data Preparation. El dataset corresponde a los registros de ventas de un pequeño retail.
+
+
+ID único de la transacción (compra)
+Categoría a la que pertenece el articulo comprado
+Producto comprado en la transacción
+Precio Unitario del articulo comprado en la transacción
+Cantidad asociada al producto en la compra
+Total gastado. surge de la multiplciación de la cantidad y el precio unitario del producto
+Método de pago registrado en la transacción
+Canal utilizado para la compra
+Fecha de registro de la transacción o compra
+Bandera que indica la existencia de un descuento en la compra
+Nombre y apellido de la persona que hizo la compra o transacción.
+bandera que demuestra si el registro debe pasar por una validación
