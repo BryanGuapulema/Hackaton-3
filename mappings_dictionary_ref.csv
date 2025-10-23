@@ -1,0 +1,230 @@
+---CUSTOMER MAPPING---,,
+Customer_ID,Customer_Name
+CUST_01,Isabella Martinez
+CUST_02,William Lee
+CUST_03,Grace Walker
+CUST_04,James  Wilson
+CUST_05,Laura Castillo
+CUST_06,Charlotte Nguyen
+CUST_07,Michael Brown
+CUST_08,Ethan Clark
+CUST_09,John  Smith
+CUST_10,Amelia Lopez
+CUST_11,Priya Patel
+CUST_12,Harper Gonzalez
+CUST_13,Liam Martin
+CUST_14,Emily  Robinson
+CUST_15,Daniel Garcia
+CUST_16,Noah Thompson
+CUST_17,Olivia Davis
+CUST_18,sofia muller
+CUST_19,Lucas Chen
+CUST_20,Alexander Rossi
+CUST_21,Benjamin  Kim
+CUST_22,Emma Johnson
+CUST_23,Mia Taylor
+CUST_24,Ava Anderson
+CUST_25,Sebastian Scott
+
+---PRODUCT MAPPING---,,
+Category,Item_Code,Product_Name
+Beverages,Item_1_BEV,Mineral Water 500ml
+Beverages,Item_2_BEV,Cola Soda 330ml
+Beverages,Item_3_BEV,Orange Juice 1L
+Beverages,Item_4_BEV,Apple Juice 1L
+Beverages,Item_5_BEV,Iced Tea Bottle
+Beverages,Item_6_BEV,Lemonade 1L
+Beverages,Item_7_BEV,Sparkling Water 750ml
+Beverages,Item_8_BEV,Ginger Ale 330ml
+Beverages,Item_9_BEV,Tonic Water 330ml
+Beverages,Item_10_BEV,Sports Drink 500ml
+Beverages,Item_11_BEV,Herbal Tea Box
+Beverages,Item_12_BEV,Green Tea Box
+Beverages,Item_13_BEV,Coffee Ground 250g
+Beverages,Item_14_BEV,Cold Brew Can
+Beverages,Item_15_BEV,Energy Drink 250ml
+Beverages,Item_16_BEV,Coconut Water 330ml
+Beverages,Item_17_BEV,Kombucha 330ml
+Beverages,Item_18_BEV,Milkshake Chocolate 300ml
+Beverages,Item_19_BEV,Fruit Smoothie 300ml
+Beverages,Item_20_BEV,Tomato Juice 1L
+Beverages,Item_21_BEV,Grape Juice 1L
+Beverages,Item_22_BEV,Pineapple Juice 1L
+Beverages,Item_23_BEV,Berry Juice 1L
+Beverages,Item_24_BEV,Protein Shake 330ml
+Beverages,Item_25_BEV,Premium Coffee Beans 250g
+Butchers,Item_1_BUT,Chicken Wings 500g
+Butchers,Item_2_BUT,Chicken Breast 500g
+Butchers,Item_3_BUT,Ground Beef 500g
+Butchers,Item_4_BUT,Pork Sausages Pack
+Butchers,Item_5_BUT,Pork Chops 500g
+Butchers,Item_6_BUT,Bacon 200g
+Butchers,Item_7_BUT,Turkey Slices 200g
+Butchers,Item_8_BUT,Beef Mince 500g
+Butchers,Item_9_BUT,Beef Steak 250g
+Butchers,Item_10_BUT,Lamb Chops 250g
+Butchers,Item_11_BUT,Ham Slices 200g
+Butchers,Item_12_BUT,Salami 150g
+Butchers,Item_13_BUT,Chorizo 200g
+Butchers,Item_14_BUT,Beef Burger Patties Pack
+Butchers,Item_15_BUT,Turkey Burger Patties Pack
+Butchers,Item_16_BUT,Chicken Nuggets 300g
+Butchers,Item_17_BUT,Smoked Bacon 200g
+Butchers,Item_18_BUT,Grilled Chicken Strips 250g
+Butchers,Item_19_BUT,Pastrami 150g
+Butchers,Item_20_BUT,Prosciutto 100g
+Butchers,Item_21_BUT,Roast Beef Slices 200g
+Butchers,Item_22_BUT,Veal Cutlets 250g
+Butchers,Item_23_BUT,Duck Breast 250g
+Butchers,Item_24_BUT,Beef Sirloin 300g
+Butchers,Item_25_BUT,Premium Ribeye 300g
+Computers and electric accessories,Item_1_COM,Mouse Pad
+Computers and electric accessories,Item_2_COM,USB-C Cable 1m
+Computers and electric accessories,Item_3_COM,HDMI Cable 2m
+Computers and electric accessories,Item_4_COM,Ethernet Cable 5m
+Computers and electric accessories,Item_5_COM,AA Batteries Pack
+Computers and electric accessories,Item_6_COM,AAA Batteries Pack
+Computers and electric accessories,Item_7_COM,Phone Charger 20W
+Computers and electric accessories,Item_8_COM,USB Hub 4-Port
+Computers and electric accessories,Item_9_COM,Wireless Mouse
+Computers and electric accessories,Item_10_COM,Wired Keyboard
+Computers and electric accessories,Item_11_COM,Laptop Sleeve 13in
+Computers and electric accessories,Item_12_COM,Webcam 720p
+Computers and electric accessories,Item_13_COM,Portable Flash Drive 64GB
+Computers and electric accessories,Item_14_COM,MicroSD Card 32GB
+Computers and electric accessories,Item_15_COM,Bluetooth Earbuds Basic
+Computers and electric accessories,Item_16_COM,Portable Charger 10000mAh
+Computers and electric accessories,Item_17_COM,External HDD 500GB
+Computers and electric accessories,Item_18_COM,Basic WiFi Router N300
+Computers and electric accessories,Item_19_COM,PC Speakers Mini
+Computers and electric accessories,Item_20_COM,Laptop Cooling Pad
+Computers and electric accessories,Item_21_COM,USB-C Dock Mini
+Computers and electric accessories,Item_22_COM,Wireless Presentation Clicker
+Computers and electric accessories,Item_23_COM,Budget Gaming Mouse
+Computers and electric accessories,Item_24_COM,Mechanical Keyboard Entry
+Computers and electric accessories,Item_25_COM,1080p Webcam
+Electric household essentials,Item_1_ELE,LED Bulb 7W
+Electric household essentials,Item_2_ELE,LED Bulb 12W
+Electric household essentials,Item_3_ELE,Night Light Plug
+Electric household essentials,Item_4_ELE,Extension Cord 1.5m
+Electric household essentials,Item_5_ELE,Extension Cord 3m
+Electric household essentials,Item_6_ELE,Power Strip 4-Outlet
+Electric household essentials,Item_7_ELE,Power Strip 6-Outlet
+Electric household essentials,Item_8_ELE,Plug Adapter EU-US
+Electric household essentials,Item_9_ELE,Plug Adapter UK-US
+Electric household essentials,Item_10_ELE,Universal Travel Adapter
+Electric household essentials,Item_11_ELE,Rechargeable Batteries AA
+Electric household essentials,Item_12_ELE,Rechargeable Batteries AAA
+Electric household essentials,Item_13_ELE,Battery Charger AA/AAA
+Electric household essentials,Item_14_ELE,Surge Protector
+Electric household essentials,Item_15_ELE,Cable Clips Pack
+Electric household essentials,Item_16_ELE,Cord Organizer Box
+Electric household essentials,Item_17_ELE,Light Switch Cover
+Electric household essentials,Item_18_ELE,Door Bell Wired
+Electric household essentials,Item_19_ELE,Door Bell Wireless
+Electric household essentials,Item_20_ELE,Smoke Alarm Basic
+Electric household essentials,Item_21_ELE,Carbon Monoxide Alarm Basic
+Electric household essentials,Item_22_ELE,Thermometer Indoor
+Electric household essentials,Item_23_ELE,Hygrometer Indoor
+Electric household essentials,Item_24_ELE,Smart Plug Basic
+Electric household essentials,Item_25_ELE,Motion Sensor Light
+Food,Item_1_FOO,Table Salt 1kg
+Food,Item_2_FOO,White Sugar 1kg
+Food,Item_3_FOO,All-Purpose Flour 1kg
+Food,Item_4_FOO,Pasta Spaghetti 500g
+Food,Item_5_FOO,Rice Long Grain 1kg
+Food,Item_6_FOO,Canned Tuna 160g
+Food,Item_7_FOO,Tomato Sauce 400g
+Food,Item_8_FOO,Canned Corn 300g
+Food,Item_9_FOO,Canned Beans 400g
+Food,Item_10_FOO,Instant Noodles Pack
+Food,Item_11_FOO,Breakfast Cereal 375g
+Food,Item_12_FOO,Peanut Butter 340g
+Food,Item_13_FOO,Jam Strawberry 300g
+Food,Item_14_FOO,Olive Oil 250ml
+Food,Item_15_FOO,Sunflower Oil 500ml
+Food,Item_16_FOO,Oats 500g
+Food,Item_17_FOO,Granola 400g
+Food,Item_18_FOO,Chocolate Bar 100g
+Food,Item_19_FOO,Cookies Pack
+Food,Item_20_FOO,Crackers Pack
+Food,Item_21_FOO,Honey 250g
+Food,Item_22_FOO,Vinegar 500ml
+Food,Item_23_FOO,Chili Sauce 200ml
+Food,Item_24_FOO,Soy Sauce 200ml
+Food,Item_25_FOO,Pesto Sauce 190g
+Furniture,Item_1_FUR,Coat Hooks Set
+Furniture,Item_2_FUR,Door Mat Rubber
+Furniture,Item_3_FUR,Chair Cushion
+Furniture,Item_4_FUR,Throw Pillow
+Furniture,Item_5_FUR,Storage Box Plastic
+Furniture,Item_6_FUR,Laundry Basket
+Furniture,Item_7_FUR,Picture Frame Set
+Furniture,Item_8_FUR,Wall Shelf Small
+Furniture,Item_9_FUR,Bedside Lamp Basic
+Furniture,Item_10_FUR,Desk Organizer Tray
+Furniture,Item_11_FUR,Side Table Small
+Furniture,Item_12_FUR,Stool Wooden
+Furniture,Item_13_FUR,Floor Lamp Basic
+Furniture,Item_14_FUR,Shoe Rack 2-Tier
+Furniture,Item_15_FUR,Serving Tray
+Furniture,Item_16_FUR,Magazine Rack
+Furniture,Item_17_FUR,Desk Lamp Adjustable
+Furniture,Item_18_FUR,Laptop Stand Metal
+Furniture,Item_19_FUR,Wall Clock Basic
+Furniture,Item_20_FUR,Curtain Rod
+Furniture,Item_21_FUR,Folding Chair Basic
+Furniture,Item_22_FUR,Bedside Table
+Furniture,Item_23_FUR,Computer Desk Basic
+Furniture,Item_24_FUR,Office Chair Basic
+Furniture,Item_25_FUR,Bookshelf Small
+Milk Products,Item_1_MIL,Whole Milk 1L
+Milk Products,Item_2_MIL,Low-Fat Milk 1L
+Milk Products,Item_3_MIL,Lactose-Free Milk 1L
+Milk Products,Item_4_MIL,Yogurt Natural 200g
+Milk Products,Item_5_MIL,Yogurt Greek 200g
+Milk Products,Item_6_MIL,Butter 200g
+Milk Products,Item_7_MIL,Cream 200ml
+Milk Products,Item_8_MIL,Cottage Cheese 200g
+Milk Products,Item_9_MIL,Mozzarella 200g
+Milk Products,Item_10_MIL,Cheddar Cheese 200g
+Milk Products,Item_11_MIL,Parmesan 150g
+Milk Products,Item_12_MIL,Gouda 200g
+Milk Products,Item_13_MIL,Blue Cheese 150g
+Milk Products,Item_14_MIL,Cream Cheese 200g
+Milk Products,Item_15_MIL,Kefir 500ml
+Milk Products,Item_16_MIL,Chocolate Milk 1L
+Milk Products,Item_17_MIL,Vanilla Yogurt 200g
+Milk Products,Item_18_MIL,Strawberry Yogurt 200g
+Milk Products,Item_19_MIL,Probiotic Drink 100ml
+Milk Products,Item_20_MIL,Skimmed Milk 1L
+Milk Products,Item_21_MIL,Ricotta 200g
+Milk Products,Item_22_MIL,Mascarpone 200g
+Milk Products,Item_23_MIL,Whipping Cream 200ml
+Milk Products,Item_24_MIL,Feta Cheese 200g
+Milk Products,Item_25_MIL,Premium Aged Cheddar 200g
+Patisserie,Item_1_PAT,Croissant Butter
+Patisserie,Item_2_PAT,Pain au Chocolat
+Patisserie,Item_3_PAT,Plain Donut
+Patisserie,Item_4_PAT,Glazed Donut
+Patisserie,Item_5_PAT,Muffin Blueberry
+Patisserie,Item_6_PAT,Muffin Chocolate
+Patisserie,Item_7_PAT,Cinnamon Roll
+Patisserie,Item_8_PAT,Danish Pastry
+Patisserie,Item_9_PAT,Baguette
+Patisserie,Item_10_PAT,Brownie
+Patisserie,Item_11_PAT,Apple Pie Slice
+Patisserie,Item_12_PAT,Cheesecake Slice
+Patisserie,Item_13_PAT,Tiramisu Cup
+Patisserie,Item_14_PAT,Cupcake Vanilla
+Patisserie,Item_15_PAT,Cupcake Chocolate
+Patisserie,Item_16_PAT,Macaron Box 6
+Patisserie,Item_17_PAT,Eclair
+Patisserie,Item_18_PAT,Fruit Tart Slice
+Patisserie,Item_19_PAT,Lemon Tart Slice
+Patisserie,Item_20_PAT,Banana Bread Slice
+Patisserie,Item_21_PAT,Carrot Cake Slice
+Patisserie,Item_22_PAT,Madeleine Pack
+Patisserie,Item_23_PAT,Scone Butter
+Patisserie,Item_24_PAT,Cannoli
+Patisserie,Item_25_PAT,Baklava Piece
